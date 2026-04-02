@@ -57,7 +57,6 @@ class AmazonLuggageScraper:
             await page.goto(url, wait_until="domcontentloaded", timeout=60_000)
             await asyncio.sleep(random.uniform(2, 4))
 
-            # Scroll to load lazy images / lazy data
             await page.evaluate("window.scrollTo(0, document.body.scrollHeight / 2)")
             await asyncio.sleep(random.uniform(1, 2))
 
@@ -70,7 +69,6 @@ class AmazonLuggageScraper:
                     continue
                 self.seen_asins.add(asin)
 
-                # --- Title ---
                 title = "N/A"
                 for sel in ['h2 a span', 'h2 span.a-text-normal', 'span.a-size-base-plus.a-color-base']:
                     t_elem = await card.query_selector(sel)
