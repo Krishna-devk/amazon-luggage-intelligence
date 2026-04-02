@@ -29,7 +29,8 @@ out/
 
 # API Cache
 backend/cache/*.json
-
+backend/.env
+frontend/.env
 # Logs
 log/
 logs/
