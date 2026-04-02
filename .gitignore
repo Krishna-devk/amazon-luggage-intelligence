@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+.npm
+.venv/
+venv/
+env/
+
+# Python / FastApi environment
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Build files
+dist/
+build/
+out/
+.vercel
+.next
+
+# API Cache
+backend/cache/*.json
+
+# Logs
+log/
+logs/
+*.log
+
+# OS & Editor files
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db
+nul

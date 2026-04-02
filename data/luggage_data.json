@@ -1,0 +1,92 @@
+[
+  {
+    "brand": "Safari",
+    "asin": "B01",
+    "title": "Safari Thor 65L Hard Luggage Suitcase",
+    "price": 3299,
+    "list_price": 7500,
+    "discount_pct": 56,
+    "rating": 4.2,
+    "review_count": 12500,
+    "category": "65L",
+    "reviews": [
+      { "rating": 5, "title": "Great value", "body": "Excellent wheels and build quality for the price.", "verified": true, "date": "2024-03-20" },
+      { "rating": 4, "title": "Good but slightly heavy", "body": "Handle is sturdy but the suitcase adds a bit of weight.", "verified": true, "date": "2024-03-18" }
+    ]
+  },
+  {
+    "brand": "Skybags",
+    "asin": "B02",
+    "title": "Skybags Trooper 55L Hardshell Suitcase",
+    "price": 2899,
+    "list_price": 6000,
+    "discount_pct": 52,
+    "rating": 4.1,
+    "review_count": 8900,
+    "category": "55L",
+    "reviews": [
+      { "rating": 5, "title": "Very stylish", "body": "Design is great and wheels are very smooth.", "verified": true, "date": "2024-03-15" },
+      { "rating": 2, "title": "Zipper issue", "body": "Zipper broke after two trips. Very disappointed.", "verified": true, "date": "2024-03-10" }
+    ]
+  },
+  {
+    "brand": "American Tourister",
+    "asin": "B03",
+    "title": "American Tourister Ivy 68L Suitcase",
+    "price": 4599,
+    "list_price": 9999,
+    "discount_pct": 54,
+    "rating": 4.4,
+    "review_count": 15000,
+    "category": "68L",
+    "reviews": [
+      { "rating": 5, "title": "Best in class", "body": "Extremely durable material and great space distribution.", "verified": true, "date": "2024-03-22" },
+      { "rating": 4, "title": "Good quality", "body": "Little bit expensive but you pay for the quality.", "verified": true, "date": "2024-03-21" }
+    ]
+  },
+  {
+    "brand": "VIP",
+    "asin": "B04",
+    "title": "VIP Aristocrat 4W Luggage",
+    "price": 1999,
+    "list_price": 4500,
+    "discount_pct": 55,
+    "rating": 3.9,
+    "review_count": 5600,
+    "category": "55L",
+    "reviews": [
+      { "rating": 4, "title": "Decent", "body": "Good enough for budget travelers. Wheels are okay.", "verified": true, "date": "2024-03-05" },
+      { "rating": 3, "title": "Handle feels flimsy", "body": "The telescopic handle feels like it might break if fully loaded.", "verified": false, "date": "2024-03-02" }
+    ]
+  },
+  {
+    "brand": "Aristocrat",
+    "asin": "B05",
+    "title": "Aristocrat Jolt 55 cm Hard Suitcase",
+    "price": 2199,
+    "list_price": 5000,
+    "discount_pct": 56,
+    "rating": 4.0,
+    "review_count": 4200,
+    "category": "55L",
+    "reviews": [
+      { "rating": 5, "title": "Super budget option", "body": "I didn't expect much but it's held up well on two flights.", "verified": true, "date": "2024-03-11" },
+      { "rating": 4, "title": "Lightweight", "body": "Very easy to carry and the wheels are good on smooth surfaces.", "verified": true, "date": "2024-03-08" }
+    ]
+  },
+  {
+    "brand": "Nasher Miles",
+    "asin": "B06",
+    "title": "Nasher Miles Paris 65L Hardside Spinner",
+    "price": 3899,
+    "list_price": 8000,
+    "discount_pct": 51,
+    "rating": 4.3,
+    "review_count": 7200,
+    "category": "65L",
+    "reviews": [
+      { "rating": 5, "title": "Beautiful design", "body": "Stunning looks and the material feels premium. Wheels are smooth.", "verified": true, "date": "2024-03-12" },
+      { "rating": 4, "title": "Good hardshell", "body": "Durable and survives rough handling at airports.", "verified": true, "date": "2024-03-09" }
+    ]
+  }
+]
